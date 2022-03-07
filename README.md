@@ -14,6 +14,8 @@
 <code><img height="60" src="https://e7.pngegg.com/pngimages/716/293/png-clipart-hyper-v-microsoft-virtualization-master-microsoft-server-desktop-application-and-presentation-virtualization-logo-hypervisor-vsphere-logo-blue-angle.png"></code>
 <code><img height="60" src="https://www.nanosystems.it/wp-content/uploads/2018/04/2007-vmware-1.jpg"></code>
 <code><img height="60" src="https://img2.freepng.ru/20190125/xx/kisspng-logo-proxmox-virtual-environment-ceph-admin-magazi-rik-goldman-9while9-twitter-5c4ac54c84a984.5206610615484040445434.jpg"></code>
+<code><img height="60" src="https://designs.mikrotik.com/images/large/mikrotik.png"></code>
+
 
 
 <!-- 
