@@ -2,7 +2,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="60" src="https://www.seekpng.com/png/full/237-2372232_linux-logo-linux-logo.png"></code>
+<code><img height="60" src="https://pngimg.com/uploads/linux/linux_PNG1.png"></code>
 <code><img height="60" src="https://img2.freepng.ru/20180430/zpq/kisspng-ubuntu-logo-macbook-pro-computer-icons-5ae720a71e1410.3558923515250966151232.jpg"></code>
 <code><img height="60" src="https://img2.freepng.ru/20180420/dzw/kisspng-centos-fedora-computer-software-linux-5ada16a3264ff7.438783311524242083157.jpg"></code>
 <code><img height="60" src="https://img2.freepng.ru/20180410/ude/kisspng-red-hat-enterprise-linux-red-hat-certification-pro-21-5acc63ed00e944.2202406815233443650037.jpg"></code>
