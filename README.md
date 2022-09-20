@@ -4,7 +4,7 @@
 
 
 
-<code><img height="60" src="https://pngimg.com/uploads/linux/linux_PNG1.png"></code>
+<code><img height="60" src="images/icons8-proxmox.svg"></code>
 <code><img height="60" src="https://pngimg.com/uploads/linux/linux_PNG1.png"></code>
 <code><img height="60" src="https://cdn.imgbin.com/22/8/5/imgbin-ubuntu-logo-macbook-pro-computer-icons-linux-8bNmLRhbLJKEPUZtByLtzb7BM.jpg"></code>
 <code><img height="60" src="https://img2.freepng.ru/20180420/dzw/kisspng-centos-fedora-computer-software-linux-5ada16a3264ff7.438783311524242083157.jpg"></code>
