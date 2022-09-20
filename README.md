@@ -2,6 +2,13 @@
 
 **Languages and Tools:**  
 
+
+<code><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+width="48" height="48"
+viewBox="0 0 48 48"
+style=" fill:#000000;"><path fill="#434345" d="M12,10l12,13l12-13l0,0c-2.17-2.17-5.719-2.066-7.758,0.228L24,15l-4.242-4.772 C17.719,7.934,14.17,7.83,12,10L12,10z"></path><path fill="#fb8c00" d="M13.613,33.896L23.001,24l-9.388-9.896C11.48,11.855,7.912,11.808,5.72,14l0,0l9.281,10L5.72,34 l0,0C7.912,36.192,11.48,36.145,13.613,33.896z"></path><path fill="#fb8c00" d="M34.388,33.896L25,24l9.388-9.896c2.133-2.249,5.701-2.296,7.893-0.104l0,0L33,24l9.281,10l0,0 C40.089,36.192,36.521,36.145,34.388,33.896z"></path><path fill="#434345" d="M35.991,38.004l-12-13l-12,13l0,0c2.17,2.17,5.719,2.066,7.758-0.228l4.242-4.772l4.242,4.772 C30.272,40.07,33.821,40.174,35.991,38.004L35.991,38.004z"></path></svg></code>
+
+
 <code><img height="60" src="https://pngimg.com/uploads/linux/linux_PNG1.png"></code>
 <code><img height="60" src="https://cdn.imgbin.com/22/8/5/imgbin-ubuntu-logo-macbook-pro-computer-icons-linux-8bNmLRhbLJKEPUZtByLtzb7BM.jpg"></code>
 <code><img height="60" src="https://img2.freepng.ru/20180420/dzw/kisspng-centos-fedora-computer-software-linux-5ada16a3264ff7.438783311524242083157.jpg"></code>
