@@ -6,7 +6,7 @@
 
 <code><img height="60" src="images/icons8-proxmox.svg"></code>
 <code><img height="60" src="https://pngimg.com/uploads/linux/linux_PNG1.png"></code>
-<code><img height="60" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"></code>
+<code><img height="60" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"></code>
 <code><img height="60" src="https://img2.freepng.ru/20180420/dzw/kisspng-centos-fedora-computer-software-linux-5ada16a3264ff7.438783311524242083157.jpg"></code>
 <code><img height="60" src="https://img2.freepng.ru/20180410/ude/kisspng-red-hat-enterprise-linux-red-hat-certification-pro-21-5acc63ed00e944.2202406815233443650037.jpg"></code>
 <code><img height="60" src="https://img2.freepng.ru/20180405/ooe/kisspng-microsoft-windows-phone-windows-8-microsoft-5ac6373414d619.9321579015229397000854.jpg"></code>
