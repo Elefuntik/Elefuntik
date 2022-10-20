@@ -1,40 +1,79 @@
 ### Hi there 👋
 
-**Languages and Tools:**  
+## Connect with me:
+
+<a href="https://www.linkedin.com/in/ivan-dziarzhynski-a02818151/">![](https://img.shields.io/badge/LinkedIn-Ivan_Dziarzhynski-informational?style=flat&logo=twitter&logoColor=white&color=6aa6f8)</a>
+![](https://img.shields.io/badge/e--mail-ivdziarzhynski@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=6aa6f8)
+
+### System:
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Linux-Red_Hat-informational?style=flat&logo=redhat&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Linux-CentOS-informational?style=flat&logo=centos&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Linux-Rocky_Linux-informational?style=flat&logo=rockylinux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
 
 
-
-<code><img height="60" src="images/icons8-proxmox.svg"></code>
-<code><img height="60" src="https://pngimg.com/uploads/linux/linux_PNG1.png"></code>
-<code><img height="60" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png"></code>
-<code><img height="60" src="https://img2.freepng.ru/20180420/dzw/kisspng-centos-fedora-computer-software-linux-5ada16a3264ff7.438783311524242083157.jpg"></code>
-<code><img height="60" src="https://img2.freepng.ru/20180410/ude/kisspng-red-hat-enterprise-linux-red-hat-certification-pro-21-5acc63ed00e944.2202406815233443650037.jpg"></code>
-<code><img height="60" src="https://img2.freepng.ru/20180405/ooe/kisspng-microsoft-windows-phone-windows-8-microsoft-5ac6373414d619.9321579015229397000854.jpg"></code>
-<code><img height="60" src="https://img2.freepng.ru/20180812/ohs/kisspng-bash-unix-shell-unix-shell-scalable-vector-graphic-github-adentintime-holberton-systemengineering-5b70ee2d95ccb5.8702200715341276616136.jpg"></code>
-<code><img height="60" src="https://img2.freepng.ru/20180704/wff/kisspng-powershell-installation-computer-icons-microsoft-c-shell-vpower-5b3ced257a2e35.9095032715307195255005.jpg"></code>
-<code><img height="60" src="https://img2.freepng.ru/20180325/kpq/kisspng-python-logo-programmer-fierce-python-cliparts-5ab7bde1954e21.4104715915219911376116.jpg"></code>
-<code><img height="60" src="https://www.kindpng.com/picc/m/13-131015_visual-studio-code-logo-hd-png-download.png"></code>
-<code><img height="60" src="https://img2.freepng.ru/20180515/szw/kisspng-bash-git-computer-icons-installation-command-line-5afaca8a063267.8597770915263852900254.jpg"></code>
-<code><img height="60" src="https://img2.freepng.ru/20180320/xaw/kisspng-github-version-control-fork-software-repository-png-github-logo-save-5ab0fb1f1120c2.3572126915215480630702.jpg"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="60" src="https://w7.pngwing.com/pngs/583/711/png-transparent-asterisk-business-telephone-system-computer-servers-digium-open-source-software-others-miscellaneous-telephone-call-orange.png"></code>
-<code><img height="60" src="https://roi4cio.com/fileadmin/user_upload/hyper_v.png"></code>
-<code><img height="60" src="https://www.nanosystems.it/wp-content/uploads/2018/04/2007-vmware-1.jpg"></code>
-<code><img height="60" src="https://img2.freepng.ru/20190125/xx/kisspng-logo-proxmox-virtual-environment-ceph-admin-magazi-rik-goldman-9while9-twitter-5c4ac54c84a984.5206610615484040445434.jpg"></code>
-<code><img height="60" src="https://designs.mikrotik.com/images/large/mikrotik.png"></code>
+### Scripting:
 
 
+![](https://img.shields.io/badge/Script-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 
-<!-- 
-<code><img height="60" src=""></code>
 
-https://www.seekpng.com/png/full/237-2372232_linux-logo-linux-logo.png
+### Web:
 
-https://img2.freepng.ru/20180705/hpy/kisspng-tux-racer-linux-computer-icons-linux-foundation-5b3eafff280586.2022127615308349431639.jpg
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
 
-https://img2.freepng.ru/20180430/zpq/kisspng-ubuntu-logo-macbook-pro-computer-icons-5ae720a71e1410.3558923515250966151232.jpg
--->
 
+### Virtual machines:
+
+![](https://img.shields.io/badge/VM-Hyper--V-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/VM-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/VM-VMWare-informational?style=flat&logo=vmware&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/VM-ESXi-informational?style=flat&logo=vmware&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/VM-Virtual_Box-informational?style=flat&logo=virtualbox&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/VM-KVM-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+
+
+### Containers:
+
+![](https://img.shields.io/badge/Containers-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
+
+### VoIP:
+
+![](https://img.shields.io/badge/VoIP-Asterisk-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/VoIP-Free_PBX-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+
+
+### DB:
+
+![](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+
+### Tools:
+
+
+![](https://img.shields.io/badge/DevOps-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/DevOps-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Linux-iptables-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Linux-fail2ban-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Linux-nmap-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Linux-Vim-informational?style=flat&logo=vim&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Monitoring-Zabbix-informational?style=flat&logo=zabbix&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Monitoring-ELK-informational?style=flat&logo=kibana&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Control_Version-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Control_Version-Github-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/IDE-Webstorm-informational?style=flat&logo=webstorm&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Atlassian-Jira-informational?style=flat&logo=jira&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Atlassian-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/CRM-Bitrix24-informational?style=flat&logo=bitrix24&logoColor=white&color=6aa6f8)
 
 
 
