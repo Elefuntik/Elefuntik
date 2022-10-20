@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Connect with me:
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/ivan-dziarzhynski-a02818151/">![](https://img.shields.io/badge/LinkedIn-Ivan_Dziarzhynski-informational?style=flat&logo=linkedin&logoColor=white&color=blueviolet)</a>
 ![](https://img.shields.io/badge/e--mail-ivdziarzhynski@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=blueviolet)
@@ -75,7 +75,18 @@
 ![](https://img.shields.io/badge/Atlassian-Confluence-informational?style=flat&logo=confluence&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/CRM-Bitrix24-informational?style=flat&logo=bitrix24&logoColor=white&color=blueviolet)
 
+### Coding Stats:
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
+
+### Github Stats:
+
+
+[![Elefuntik's GitHub stats](https://github-readme-stats.vercel.app/api?username=elefuntik)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
