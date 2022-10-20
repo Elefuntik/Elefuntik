@@ -2,7 +2,7 @@
 
 ## Connect with me:
 
-<a href="https://www.linkedin.com/in/ivan-dziarzhynski-a02818151/">![](https://img.shields.io/badge/LinkedIn-Ivan_Dziarzhynski-informational?style=flat&logo=twitter&logoColor=white&color=blueviolet)</a>
+<a href="https://www.linkedin.com/in/ivan-dziarzhynski-a02818151/">![](https://img.shields.io/badge/LinkedIn-Ivan_Dziarzhynski-informational?style=flat&logo=linkedin&logoColor=white&color=blueviolet)</a>
 ![](https://img.shields.io/badge/e--mail-ivdziarzhynski@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=blueviolet)
 
 ### System:
