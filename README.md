@@ -79,6 +79,18 @@
 ### Coding Stats:
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 2 hrs 22 mins
+
+JavaScript   1 hr 37 mins    █████████████████░░░░░░░░   68.50 %
+Markdown     29 mins         █████░░░░░░░░░░░░░░░░░░░░   20.33 %
+YAML         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+HTML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+```
+
 <!--END_SECTION:waka-->
 
 
