@@ -81,13 +81,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 86 hrs 45 mins
+Total Time: 88 hrs 10 mins
 
-JavaScript       39 hrs 2 mins   ███████████▒░░░░░░░░░░░░░   45.00 %
-CSS              23 hrs 31 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.12 %
-HTML             17 hrs 16 mins  █████░░░░░░░░░░░░░░░░░░░░   19.92 %
-Markdown         6 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-GitIgnore file   16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript       39 hrs 17 mins  ███████████░░░░░░░░░░░░░░   44.56 %
+CSS              23 hrs 48 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.00 %
+HTML             18 hrs 10 mins  █████░░░░░░░░░░░░░░░░░░░░   20.61 %
+Markdown         6 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+GitIgnore file   16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 YAML             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
