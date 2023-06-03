@@ -80,7 +80,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 188 hrs 20 mins
 
 JavaScript       62 hrs 50 mins  ████████▒░░░░░░░░░░░░░░░░   33.36 %
