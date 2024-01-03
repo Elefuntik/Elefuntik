@@ -7,7 +7,7 @@
 
 ### System:
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Linux-Red_Hat-informational?style=flat&logo=redhat&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Linux-CentOS-informational?style=flat&logo=centos&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Linux-Rocky_Linux-informational?style=flat&logo=rockylinux&logoColor=white&color=blueviolet)
